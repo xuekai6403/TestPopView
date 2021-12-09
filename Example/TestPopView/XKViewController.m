@@ -7,7 +7,7 @@
 //
 
 #import "XKViewController.h"
-
+#import "TestPopView.h"
 @interface XKViewController ()
 
 @end
@@ -18,6 +18,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    TestPopView *text = [TestPopView ]
 }
 
 - (void)didReceiveMemoryWarning

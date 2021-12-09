@@ -1,0 +1,22 @@
+{
+  "name": "TestPopView",
+  "version": "0.1.0",
+  "summary": "A short description of TestPopView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xuekai6403/TestPopView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xuekai6403": "xeb6723@dingtalk.com"
+  },
+  "source": {
+    "git": "https://github.com/xuekai6403/TestPopView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "TestPopView/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module TestPopView {
+  umbrella header "TestPopView-umbrella.h"
+
+  export *
+  module * { export * }
+}
