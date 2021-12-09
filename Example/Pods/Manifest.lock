@@ -4,7 +4,7 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - TestPopView (0.1.0)
+  - TestPopView (1.0.1)
 
 DEPENDENCIES:
   - FBSnapshotTestCase
@@ -20,7 +20,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  TestPopView: 0bb07018997e89a369c54d4c561fc3f654f0311f
+  TestPopView: 4e7000576b6cd31c8e5347e9af3b75c58a8a5db5
 
 PODFILE CHECKSUM: 1b1dec4f378a5815abf5c153e91e64233ab6f3f7
 
